@@ -26,7 +26,7 @@
     "@astrojs/markdown-remark": "^5.0.0",
     "@astrojs/starlight": "^0.22.0",
     "@types/json-schema": "^7.0.15",
-    "astro": "^4.4.4",
+    "astro": "^4.16.1",
     "astro-feelback": "^0.3.4",
     "jsdom": "^24.0.0",
     "prettier": "^3.2.5",
